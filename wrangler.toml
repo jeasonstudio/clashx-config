@@ -1,0 +1,6 @@
+name = "clashx"
+type = "webpack"
+zone_id = ""
+account_id = "17c6a9191ab7762037746ced914b5801"
+workers_dev = true
+webpack_config = "webpack.config.js"
